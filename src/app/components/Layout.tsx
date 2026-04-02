@@ -55,7 +55,7 @@ export function Layout() {
             Data: 2026 NFL Draft Class
           </div>
           <div className="text-muted-foreground mt-0.5" style={{ fontSize: '10px' }}>
-            68 Skill Prospects Evaluated
+            88 Skill Prospects Evaluated
           </div>
         </div>
       </aside>
