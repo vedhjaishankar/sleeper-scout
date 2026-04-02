@@ -39,7 +39,7 @@ The **Sleeper Score (0–100)** is calculated as:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Core**: [React 18](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
@@ -51,7 +51,7 @@ The **Sleeper Score (0–100)** is calculated as:
 
 ---
 
-## 💻 Local Development
+## Local Development
 
 To run the dashboard locally, follow these steps:
 
@@ -82,7 +82,7 @@ npm run build
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 sleeper-scout/
@@ -99,5 +99,17 @@ sleeper-scout/
 
 ---
 
-## 📄 License
+## Team & Credits
+
+This project was developed by:
+- **Vedh Jaishankar** — Frontend
+- **Rayan Mohammed** — Backend (ML/Modeling/Data Gathering)
+- **Pranav Shidlaghatta** — Backend (ML/Modeling/Data Gathering)
+- **Tejas Tadikonda** — Backend (ML/Modeling/Data Gathering)
+
+Special thanks to all the contributors and peer reviewers who helped refine the Sleeper Score model and UI.
+
+---
+
+## License
 This project is for informational and research purposes only. Draft data and metrics are sourced from Pro Football Reference.
