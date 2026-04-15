@@ -13,7 +13,7 @@ export function Layout() {
               <Activity className="w-4 h-4 text-primary-foreground" strokeWidth={2.5} />
             </div>
             <div>
-              <div className="text-foreground text-sm" style={{ fontWeight: 700, letterSpacing: '0.02em' }}>NFL SCOUT</div>
+              <div className="text-foreground text-sm" style={{ fontWeight: 700, letterSpacing: '0.02em' }}>SLEEPER SCOUT</div>
               <div className="text-muted-foreground" style={{ fontSize: '10px', letterSpacing: '0.08em', textTransform: 'uppercase' }}>Combine Analytics</div>
             </div>
           </div>
